@@ -32,8 +32,21 @@
 
 **관리자** - 쇼핑, 주문, 회원, Q&A답변 가능
 
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/75cf1b02-2484-47c1-8379-57ac85563118)
 
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/db74a64c-5d88-4a19-9ce6-39ece9bbba6b)
 
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/19c6d975-6978-495e-8bf6-8c5b6d93cb68)
+
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/93742457-d83c-4d46-9a42-4305def2e9b2)
+
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/8f0c0d5f-feae-4476-8bd6-030dc9ba48d5)
+
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/38cf5b6d-4d14-4f8d-89c2-4f1a19d1ed0f)
+
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/17bec9c9-4d2a-4299-848e-31945cb35608)
+
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/f4f7add6-a330-47d8-b855-274cdd06fbf2)
 
 
 # 데이터베이스
