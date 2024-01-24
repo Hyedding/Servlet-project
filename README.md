@@ -32,33 +32,20 @@
 
 **관리자** - 쇼핑, 주문, 회원, Q&A답변 가능
 
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/44dbbd02-b117-49f7-8362-29acaa7d4646)
 
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/0864b58d-5fa3-4a48-8cee-e0349961f1c3)
-
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/1f243d3a-75ef-4def-8f6b-f7bdf0b48a34)
-
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/7427de32-ec3a-48e7-884a-2972ef41320d)
-
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/735b369a-42c3-4795-87c3-58914debb032)
-
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/021d4f58-2ab9-4f4e-96ea-cee1c96f02f1)
-
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/264b55e2-cf16-4629-9dda-2600ae3b300c)
-
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/a0e073aa-88b2-45a2-a717-09845a28fd90)
 
 
 
 # 데이터베이스
 
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/2ac2aa3b-bd8c-481c-900b-b4b02416cc62)
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/46f870f8-2ff2-47cc-9da5-ac9492d59ba7)
 
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/8c2610b8-14b2-4a37-9dbc-baee16def925)
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/3ed9e206-58ea-4980-911a-48a4c59271a4)
 
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/cbfd11a5-0bcb-47fc-b27b-26c05edde280)
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/84f868b2-c4a4-47ec-8ca1-68742858ab93)
 
-![image](https://github.com/Hyedding/Servlet-project/assets/155518059/55e925a1-0b78-4589-96ee-15fa1f1a0b78)
+![image](https://github.com/Hyedding/Servlet-project/assets/155518059/d2f871a7-a8e8-4e6c-8453-4224275eba6e)
+
 
 
 
